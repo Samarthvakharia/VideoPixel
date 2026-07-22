@@ -1,0 +1,6 @@
+{
+  "name": "Netflix",
+  "description": "A high-fidelity Netflix clone application with categorized movie carousels, detailed video playback simulation, localized watchlist storing (Room DB), and AI-powered recommendations (Gemini API).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
